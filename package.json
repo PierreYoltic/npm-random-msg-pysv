@@ -14,7 +14,15 @@
   "author": "pierre18 <piyosovi@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreYoltic/npm-random-msg-pysv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PierreYoltic/npm-random-msg-pysv/issues"
+  },
+  "homepage": "https://github.com/PierreYoltic/npm-random-msg-pysv#readme"
 }
